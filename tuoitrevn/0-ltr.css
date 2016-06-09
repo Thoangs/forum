@@ -89,7 +89,7 @@ a.acView{color:red!important}
 .table td{border:1px solid #DDD;padding:5px}
 .table .thead{background:#444;color:#FFF;text-transform:uppercase}
 .table .thead td{padding:10px 5px}
-.post-entry embed{width:640px;margin:0 auto;display:block;max-width:100%}
+.post-entry embed{margin:0 auto;display:block;max-width:100%}
 
 /* menu action */
 #topicmenu-options{position:relative}
