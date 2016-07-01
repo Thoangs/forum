@@ -1,7 +1,3 @@
-/*
- * jQuery plugin zzImgUr ver 1.6 by zzbaivong
- * http://devs.forumvi.com/ 
- */
 .imgur_Zzbv,
 .imgur_Zzbv * {
     margin: 0;
@@ -34,7 +30,7 @@
 .imgur_Zzbv-iconComplete,
 .imgur_Zzbv-iconImage {
     display: inline-block;
-    background: url(./images/sprite.png) no-repeat center center;
+    background: url(http://i.imgur.com/QIHc2JT.png) no-repeat center center;
     width: 16px;
     height: 16px;
     margin: 7px;
