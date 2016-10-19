@@ -1,8 +1,8 @@
 @charset "utf-8";
 @import "http://templatecycle.com/demo/bootclassified-v1.5/dist/assets/css/animate.min.css";
 @import "http://templatecycle.com/demo/bootclassified-v1.5/dist/assets/css/longshadow.css";
-@import "../plugins/jquery.fs.scroller/jquery.fs.scroller.css";
-@import "../plugins/jquery.fs.selecter/jquery.fs.selecter.css";
+@import "http://templatecycle.com/demo/bootclassified-v1.5/dist/assets//plugins/jquery.fs.scroller/jquery.fs.scroller.css";
+@import "http://templatecycle.com/demo/bootclassified-v1.5/dist/assets//plugins/jquery.fs.selecter/jquery.fs.selecter.css";
 @import "http://templatecycle.com/demo/bootclassified-v1.5/dist/assets/css/fileinput.min.css";
 @import "//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css";
 @import "http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700";
