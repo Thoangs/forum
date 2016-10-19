@@ -1,10 +1,9 @@
 @charset "utf-8";
-@import "http://templatecycle.com/demo/bootclassified-v1.5/dist/assets/css/.min.css";
-@import "http://templatecycle.com/demo/bootclassified-v1.5/dist/assets/css/fontello.css";
+@import "http://templatecycle.com/demo/bootclassified-v1.5/dist/assets/css/animate.min.css";
 @import "http://templatecycle.com/demo/bootclassified-v1.5/dist/assets/css/longshadow.css";
 @import "../plugins/jquery.fs.scroller/jquery.fs.scroller.css";
 @import "../plugins/jquery.fs.selecter/jquery.fs.selecter.css";
-@import "fileinput.min.css";
+@import "http://templatecycle.com/demo/bootclassified-v1.5/dist/assets/css/fileinput.min.css";
 @import "//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css";
 @import "http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700";
 @import "http://fonts.googleapis.com/css?family=Roboto:100,200,300,400,500,600,700|Roboto+Condensed:300,400,700";
@@ -173,7 +172,7 @@ button.btn-search{border-radius:0!important;font-size:18px;height:48px;letter-sp
 .cat-list-border h3{border-bottom:1px solid #ddd;margin-bottom:10px;padding-bottom:10px;position:relative}
 .cat-title a{display:inline-block;padding-left:48px;padding-top:0;overflow:hidden;text-overflow:ellipsis;width:100%;white-space:nowrap}
 .cat-list h3 .count{clear:both;color:#777;display:block;font-size:12px;font-weight:normal;line-height:1;padding:3px 0;text-align:left;vertical-align:baseline;white-space:nowrap}
-.cat-title i{position:absolute;left:0;top:0}
+.cat-title i{line-height:42px;position:absolute;left:0;top:0}
 .cat-list.arrow{margin-bottom:0}
 .cat-list ul li a,.cat-list li a{border-radius:2px;font-style:normal;transition:all .1s ease 0;font-size:12px;color:#4e575d}
 .cat-list ul li a:hover,.cat-list a:hover{text-decoration:underline;color:#345676}
@@ -671,7 +670,7 @@ h4{font-size:16px;line-height:18px}
 .row-featured-category{margin-bottom:-1px}
 .f-category{border:solid 1px #ddd;margin-top:-1px;border-left:0;background:#fff;padding:15px;text-align:center;overflow:hidden;display:block}
 .f-category a{display:block}
-.f-category img{display:block;height:90px;margin:0 auto;transform:scale(1);-webkit-transform:scale(1);transition:all .25s cubic-bezier(0.4,0,1,1) 0;-webkit-transition:all .25s cubic-bezier(0.4,0,1,1) 0}
+.f-category img {display: block; height: 90px; margin: 0 auto; transform: scale(1); -webkit-transform: scale(1); transition: all 0.25s cubic-bezier(0.4,0,1,1) 0s; -webkit-transition: all 0.25s cubic-bezier(0.4,0,1,1) 0s; }
 .f-category:hover img{transform:scale(1) translateY(-3px);opacity:.9}
 .f-category h6{color:#333;font-family:Roboto,Helvetica,Arial,sans-serif;font-size:13px;font-weight:500;letter-spacing:0;margin:10px 0;padding-bottom:0;transition:all .25s cubic-bezier(0.4,0,1,1) .1s;-webkit-transition:all .25s cubic-bezier(0.4,0,1,1) .1s}
 .f-category:hover h6{transform:scale(1.1) translateY(2px);-webkit-transform:scale(1.1) translateY(2px)}
