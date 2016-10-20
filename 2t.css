@@ -107,7 +107,8 @@ aside{padding:50px 0}
 .btn{text-transform:none;display:inline-block;padding:8px 12px;margin-bottom:0;font-size:14px;font-weight:400;line-height:1.42857143;text-align:center;white-space:nowrap;vertical-align:middle;-ms-touch-action:manipulation;touch-action:manipulation;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-image:none;border:1px solid transparent;border-radius:4px}
 .btn-default{color:#333;background-color:#f5f5f5;border-color:#ccc}
 .row.bottom-space{margin-right:auto;margin-left:auto;padding:31px 15px}
-.media-card{border:1px solid #ccc;padding:14px;border-radius:4px;margin-bottom:30px;.media-card:hover{background:#eee}
+.media-card{border:1px solid #ccc;padding:14px;border-radius:4px;margin-bottom:30px;}
+.media-card:hover{background:#eee}
 .media-card .media-card-text{font-size:13px;margin-bottom:10px}
 .version-pic{width:128px;margin:0 auto;max-width:150px;visibility:visible;animation-duration:.5s;animation-name:gb}
 a.btn-ghost,.btn-ghost{background:none;border:1px solid #fff;color:#fff!important;padding:8px 20px;vertical-align:middle}
