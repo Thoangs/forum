@@ -141,10 +141,6 @@ h4.job-title{margin:4px 0}
 .follow-us li{float:left}
 .follow-us li a{font-size:20px;line-height:38px;display:block;width:40px;height:40px;margin:10px 10px 0 0;-webkit-transition:all .1s ease 0;-o-transition:all .1s ease 0;transition:all .1s ease 0;text-align:center;border:1px solid #a3a3a3;border-radius:100%}
 .footer ul li a:hover{text-decoration:none;color:#2196f3}
-.subscribe-button{font-size:12px;padding:7px 12px 8px;color:#fff;background:#2196f3}
-.subscribe-button:hover{color:#f8f8f8;background:#1976d2}
-.follow-us li a:hover{color:#fff!important;border:1px solid #1976d2;background:#2196f3}
-.follow-us .fa{line-height:38px}
 @media (min-width:768px) {
 .navbar-default{background-color:transparent;border-color:rgba(255,255,255,.3)}
 .navbar-default .navbar-header .navbar-brand{color:rgba(255,255,255,.7)}
@@ -206,3 +202,7 @@ header .header-content .header-content-inner p{font-size:18px;max-width:80%;marg
 ::selection{color:#fff;text-shadow:none;background:#222}
 img::selection{color:#fff;background:0 0}
 img::-moz-selection{color:#fff;background:0 0}
+.subscribe-button{font-size:12px;padding:7px 12px 8px;color:#fff;background:#2196f3}
+.subscribe-button:hover{color:#f8f8f8;background:#1976d2}
+.follow-us li a:hover{color:#fff!important;border:1px solid #1976d2;background:#2196f3}
+.follow-us .fa{line-height:38px}
